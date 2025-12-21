@@ -42,8 +42,8 @@ The Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/blog-preview-card-solution-LCSeO4yCWB)
+- Live Site URL: [Live Site](https://surjo.pages.dev/Frontend-Mentor-projects/blog-preview-card/)
 
 ## My process
 
