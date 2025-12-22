@@ -56,6 +56,12 @@ The Users should be able to:
 ### What I learned
 
 ```css
+/* '@font-face' property */
+@font-face {
+  font-family: "Figtree";
+  src: url(assets/fonts/Figtree-VariableFont_wght.ttf);
+}
+/* How 'box-shadow' property works */
 .container {
   box-shadow: 8px 8px 0px var(--gray-950);
 }
