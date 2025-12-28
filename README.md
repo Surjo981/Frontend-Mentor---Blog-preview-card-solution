@@ -48,10 +48,9 @@ The Users should be able to:
 
 ### Built with
 
-- Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS clamp() function for responsiveness
+- CSS `clamp()` function for responsiveness
 
 ### What I learned
 
